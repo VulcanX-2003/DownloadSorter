@@ -1,0 +1,13 @@
+pkgbase = sorter
+	pkgdesc = Automatically sort downloaded files into OS-specific directories.
+	pkgver = 0.1.0
+	pkgrel = 1
+	url = https://github.com/yourusername/sorter
+	arch = any
+	license = MIT
+	depends = python
+	depends = python-watchdog
+	source = sorter-0.1.0.tar.gz
+	sha256sums = SKIP
+
+pkgname = sorter
