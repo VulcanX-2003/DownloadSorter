@@ -4,7 +4,7 @@
 ![GitHub license](https://img.shields.io/github/license/user/repository.svg)
 ![Build status](https://img.shields.io/github/actions/workflow/status/user/repository/ci.yml)
 
-A brief description of what your project does and its purpose.
+A script to sort your downloads and pack it in the Proper Images/Documents/Videos/Music Folders and Male your Downloads Clutter Free. 
 
 ## Table of Contents
 
