@@ -1,10 +1,10 @@
-# Auto Download 
+# Auto Download Organizer
 
 ![GitHub release](https://img.shields.io/github/release/user/repository/all.svg)
 ![GitHub license](https://img.shields.io/github/license/user/repository.svg)
 ![Build status](https://img.shields.io/github/actions/workflow/status/user/repository/ci.yml)
 
-A script to sort your downloads and pack it in the Proper Images/Documents/Videos/Music Folders and Male your Downloads Clutter Free. 
+Automatically sort your downloads into appropriate folders (Images, Documents, Videos, Music) to keep your Downloads folder clutter-free.
 
 ## Table of Contents
 
@@ -18,22 +18,23 @@ A script to sort your downloads and pack it in the Proper Images/Documents/Video
 
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Automatically sorts downloaded files into categorized folders.
+- Supports a wide range of file types (e.g., JPG, PNG, DOCX, PDF, MP4, MP3).
+- Customizable sorting rules based on file name or type.
+- Easy to set up and use with minimal configuration.
 
 ## Installation
 
 ### Prerequisites
 
-- Software or libraries needed
-- Versions required
+- Ensure you have Python 3.x installed on your system.
+- `pip` should be installed to manage Python packages.
 
 ### Steps
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/user/repository.git
+    git clone https://github.com/VulcanX-2003/DownloadSorter.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -41,10 +42,6 @@ A script to sort your downloads and pack it in the Proper Images/Documents/Video
     ```
 3. Install dependencies:
     ```bash
-    # For npm
-    npm install
-    
-    # For pip
     pip install -r requirements.txt
     ```
 
@@ -52,12 +49,14 @@ A script to sort your downloads and pack it in the Proper Images/Documents/Video
 
 ### Basic Usage
 
-Describe how to use the project, with example commands or code snippets.
+To start sorting your downloads, follow these steps:
 
-```bash
-# Example command
-command to run your project
+1. Download the latest release of the app.
+2. 
 
-# Example usage in code
-import project
-project.do_something()
+
+Once the app is running, it will automatically sort your downloads in the background whenever you download a file.
+
+## License
+
+This project is licensed under the MIT License.
