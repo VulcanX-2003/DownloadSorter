@@ -1,9 +1,5 @@
 # Auto Download Organizer
 
-![GitHub release](https://img.shields.io/github/release/user/repository/all.svg)
-![GitHub license](https://img.shields.io/github/license/user/repository.svg)
-![Build status](https://img.shields.io/github/actions/workflow/status/user/repository/ci.yml)
-
 Automatically sort your downloads into appropriate folders (Images, Documents, Videos, Music) to keep your Downloads folder clutter-free.
 
 ## Table of Contents
@@ -11,11 +7,6 @@ Automatically sort your downloads into appropriate folders (Images, Documents, V
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## Features
 
 - Automatically sorts downloaded files into categorized folders.
@@ -49,13 +40,9 @@ Automatically sort your downloads into appropriate folders (Images, Documents, V
 
 ### Basic Usage
 
-To start sorting your downloads, follow these steps:
+- To start sorting your downloads, all you need to do is download the latest release of the app.
 
-1. Download the latest release of the app.
-2. 
-
-
-Once the app is running, it will automatically sort your downloads in the background whenever you download a file.
+- Once the app is running, it will automatically sort your downloads in the background whenever you download a file.
 
 ## License
 
